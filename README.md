@@ -20,7 +20,7 @@ namespace NgocTien
             string Gender = "Male";
             string Address = "Bình Thuận, Việt Nam";
             string University = "Trường Đại học Khoa học Tự Nhiên - ĐHQG HCM";
-            string Skills = "C, C++, C#, Java, Python, HTML, CSS";
+            string Skills = "C, C++, C#, Java, Python, HTML, CSS, JavaScript";
         }
     }
 }
