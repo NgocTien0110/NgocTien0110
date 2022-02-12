@@ -101,6 +101,20 @@ namespace NgocTien
   </tbody>
 </table>
 
+## <p align="center">Visitor's count :eyes:</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{NgocTien0110}/count.svg" alt="NgocTien0110 :: Visitor's Count" /></p>
+
+## <p align="center">GitHub Profile Trophy 🏆</p>
+
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=2&column=4">
+</p>
+
+## <p align="center">Top langs :tongue:</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" alt="NgocTien0110 :: Top Langs" /></p>
+
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" alt="NgocTien0110 :: Profile Stats" /></p>
