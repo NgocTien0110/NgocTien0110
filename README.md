@@ -59,19 +59,24 @@ namespace NgocTien
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="33%" align="center">
+           <td width="25%" align="center">
 	<a href="https://devdocs.io/cpp/">
 		<span>𝗖++</span><br><br><br>
 		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
 	 </a>
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
 	 <a href="https://docs.microsoft.com/dotnet/csharp/">
 		<span>𝗖#</span><br><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
 	 </a>
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
+	<a href="https://docs.oracle.com/java/">
+		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	 </a>
+      <td width="25%" align="center">
 	      <a href="https://docs.python.org/3/">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
@@ -79,25 +84,31 @@ namespace NgocTien
       </td>
     </tr>
     <tr valign="top">
-	<td width="33%" align="center">
+	<td width="25%" align="center">
 		<a href="https://code.visualstudio.com/docs">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 		</a>
       </td>
-	<td width="33%" align="center">
+	<td width="25%" align="center">
 		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
 		</a>
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
+	      <a href="https://developer.android.com/docs">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	      </a>
+      </td>
+      <td width="25%" align="center">
 	      <a href="https://git-scm.com/doc">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 	      </a>
-      </td>
-    </tr>
+      </td>    
+	  </tr>
   </tbody>
 </table>
 
