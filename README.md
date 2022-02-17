@@ -122,7 +122,7 @@ namespace NgocTien
 <img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=2&column=4">
 </p>
 
-## <p align="center">Top langs :tongue:</p>
+## <p align="center">Top languages :tongue:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" alt="NgocTien0110 :: Top Langs" /></p>
 
