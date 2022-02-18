@@ -119,7 +119,7 @@ namespace NgocTien
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6">
 </p>
 
 ## <p align="center">Top languages :tongue:</p>
