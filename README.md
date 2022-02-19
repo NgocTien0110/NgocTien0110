@@ -1,8 +1,14 @@
 # <p align="center">𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
 
+<h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=cout%20<<%20%22Hello%2C%20World!%22;Welcome%20to%20NgocTien's%20Github!&center=true&size=27">
+  </a>
+</h1>
+
 <p align="center">
 	<a href="https://github.com/NgocTien0110">
-	<img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-9/195786313_1440368416314373_1001882558063615387_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=YmI84gLQpHAAX_MAXFi&_nc_ht=scontent.fdad3-1.fna&oh=00_AT8q51aq6on2Ec5oXC2X4o0bzH6_1dKdqpt_E_v5y-M1mw&oe=6214EDCD" width = "500" alt="TNT">
+	<img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-9/195786313_1440368416314373_1001882558063615387_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=YmI84gLQpHAAX_MAXFi&_nc_ht=scontent.fdad3-1.fna&oh=00_AT8q51aq6on2Ec5oXC2X4o0bzH6_1dKdqpt_E_v5y-M1mw&oe=6214EDCD" width = "500" alt="DNT">
 	</a>
 </p>
 
