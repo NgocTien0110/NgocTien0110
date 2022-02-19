@@ -157,4 +157,4 @@ namespace NgocTien
 
 ##
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif" alt="Synthwave" height="300" width="370"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/79363930/154793902-e1af2016-7376-45ed-a297-59100a186f31.gif" alt="ani" height="300" width="370"></p>
