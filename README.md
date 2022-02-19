@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=cout%20<<%20%22Hello%2C%20World!%22;Welcome%20to%20NgocTien's%20Github!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=cout%20<<%20%22Hello%2C%20World!%22;Welcome%20to%20NgocTien's%20Github!;&center=true&size=27">
   </a>
 </h1>
 
