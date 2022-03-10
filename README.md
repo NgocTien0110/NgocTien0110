@@ -144,9 +144,8 @@ namespace NgocTien
 <p>
 
 <hr>
-<br>
 
-## <p align="center">Just a snake eating my contributions 🐍</p>
+## <p align="center">Just a snake eating my contributions <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40"> </p>
 
 <p align='center'>
 <img src="https://github.com/NgocTien0110/NgocTien0110/blob/output/github-contribution-grid-snake.svg">
