@@ -8,7 +8,8 @@
 
 <h2 align="center">About me</h2>
 
-```C#
+<!-- ```C#
+class NgocTien
 namespace NgocTien
 {
     class ngoctien
@@ -23,7 +24,7 @@ namespace NgocTien
             string Skills = "C, C++, C#, Python, HTML";
         }
     }
-}
+} -->
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
@@ -53,7 +54,7 @@ namespace NgocTien
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
-
+<!-- 
 ## <p align="center">What I use :alien:</p>
 
 <table align="center">
@@ -99,7 +100,7 @@ namespace NgocTien
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
