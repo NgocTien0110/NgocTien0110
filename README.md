@@ -1,12 +1,18 @@
 # <p align="center">𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
 
+<h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=cout%20<<%20%22Hello%2C%20World!%22;Welcome%20to%20NgocTien's%20Github!;&center=true&size=27">
+  </a>
+</h1>
+
 <p align="center">
 	<a href="https://github.com/NgocTien0110">
-	<img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-9/195786313_1440368416314373_1001882558063615387_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=YmI84gLQpHAAX_MAXFi&_nc_ht=scontent.fdad3-1.fna&oh=00_AT8q51aq6on2Ec5oXC2X4o0bzH6_1dKdqpt_E_v5y-M1mw&oe=6214EDCD" width = "500" alt="TNT">
+	<img src="https://user-images.githubusercontent.com/79363930/155297309-3d7f32c0-6606-43db-86ad-36978e6bef9d.jpg" width = "500" alt="DNT">
 	</a>
 </p>
 
-<h2 align="center">About me</h2>
+<h2 align="center">About me 🔑</h2>
 
 <!-- ```C#
 class NgocTien
@@ -21,7 +27,7 @@ namespace NgocTien
             string Gender = "Male";
             string Address = "Bình Thuận, Việt Nam";
             string University = "Trường Đại học Khoa học Tự Nhiên - ĐHQG HCM";
-            string Skills = "C, C++, C#, Python, HTML";
+            string Skills = "C, C++, C#, Java, Python, HTML, CSS, JavaScript";
         }
     }
 } -->
@@ -60,19 +66,24 @@ namespace NgocTien
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="33%" align="center">
+           <td width="25%" align="center">
 	<a href="https://devdocs.io/cpp/">
 		<span>𝗖++</span><br><br><br>
 		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
 	 </a>
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
 	 <a href="https://docs.microsoft.com/dotnet/csharp/">
 		<span>𝗖#</span><br><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
 	 </a>
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
+	<a href="https://docs.oracle.com/java/">
+		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	 </a>
+      <td width="25%" align="center">
 	      <a href="https://docs.python.org/3/">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
@@ -80,27 +91,47 @@ namespace NgocTien
       </td>
     </tr>
     <tr valign="top">
-	<td width="33%" align="center">
+	<td width="25%" align="center">
 		<a href="https://code.visualstudio.com/docs">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
 		</a>
       </td>
-	<td width="33%" align="center">
+	<td width="25%" align="center">
 		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
 		</a>
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
+	      <a href="https://developer.android.com/docs">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	      </a>
+      </td>
+      <td width="25%" align="center">
 	      <a href="https://git-scm.com/doc">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 	      </a>
-      </td>
-    </tr>
+      </td>    
+	  </tr>
   </tbody>
 </table> -->
+
+## <p align="center">Visitor's count :eyes:</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{NgocTien0110}/count.svg" alt="NgocTien0110 :: Visitor's Count" /></p>
+
+## <p align="center">GitHub Profile Trophy 🏆</p>
+
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6">
+</p>
+
+## <p align="center">Top languages :tongue:</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" alt="NgocTien0110 :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
@@ -114,9 +145,8 @@ namespace NgocTien
 <p>
 
 <hr>
-<br>
 
-## <p align="center">Just a snake eating my contributions 🐍</p>
+## <p align="center">Just a snake eating my contributions <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40"> </p>
 
 <p align='center'>
 <img src="https://github.com/NgocTien0110/NgocTien0110/blob/output/github-contribution-grid-snake.svg">
@@ -127,4 +157,4 @@ namespace NgocTien
 
 ##
 
-<p align="center"><img src="https://truyen3s.com/cover/images/c4a60cc2d5101d13a6c723d779fbda399bf757e6/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7941335831305a394c3464474a773d3d2d3735303935393739342e313561633435363830346265643533363139393232363237363135342e676966" alt="Synthwave" height="300" width="370"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/79363930/154793902-e1af2016-7376-45ed-a297-59100a186f31.gif" alt="ani" height="300" width="370"></p>
