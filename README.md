@@ -2,11 +2,11 @@
 
 <p align="center">
 	<a href="https://github.com/NgocTien0110">
-	<img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-9/195786313_1440368416314373_1001882558063615387_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=YmI84gLQpHAAX_MAXFi&_nc_ht=scontent.fdad3-1.fna&oh=00_AT8q51aq6on2Ec5oXC2X4o0bzH6_1dKdqpt_E_v5y-M1mw&oe=6214EDCD" width = "500" alt="TNT">
+	<img src="https://user-images.githubusercontent.com/79363930/155297309-3d7f32c0-6606-43db-86ad-36978e6bef9d.jpg" width = "500" alt="NgocTien">
 	</a>
 </p>
 
-<h2 align="center">About me</h2>
+<!-- <h2 align="center">About me</h2> -->
 
 <!-- ```C#
 class NgocTien
@@ -102,12 +102,13 @@ namespace NgocTien
   </tbody>
 </table>
  -->
+
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" alt="NgocTien0110 :: Profile Stats" /></p>
 
+## <p align="center">Github Contributions 📈</p>
 
- ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=NgocTien0110&theme=react-dark&hide_border=true">
