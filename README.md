@@ -121,10 +121,6 @@ namespace NgocTien
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" alt="NgocTien0110 :: Profile Stats" /></p>
 
-## <p align="center">Profile stats :musical_keyboard:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" alt="NgocTien0110 :: Profile Stats" /></p>
-
 ## <p align="center">Github Contributions 📈</p>
 
 <br>
