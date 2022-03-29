@@ -21,7 +21,6 @@ namespace NgocTien
             string Gender = "Male";
             string Address = "Bình Thuận, Việt Nam";
             string University = "Trường Đại học Khoa học Tự Nhiên - ĐHQG HCM";
-            string Skills = "C, C++, C#, Python, HTML";
         }
     }
 }
@@ -55,53 +54,12 @@ namespace NgocTien
   </a>
 </p>
 
-<!-- ## <p align="center">What I use :alien:</p>
-
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="33%" align="center">
-	<a href="https://devdocs.io/cpp/">
-		<span>𝗖++</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
-	 </a>
-      </td>
-      <td width="33%" align="center">
-	 <a href="https://docs.microsoft.com/dotnet/csharp/">
-		<span>𝗖#</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-	 </a>
-      </td>
-      <td width="33%" align="center">
-	      <a href="https://docs.python.org/3/">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-	      </a>
-      </td>
-    </tr>
-    <tr valign="top">
-	<td width="33%" align="center">
-		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-		</a>
-      </td>
-	<td width="33%" align="center">
-		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
-		</a>
-      </td>
-      <td width="33%" align="center">
-	      <a href="https://git-scm.com/doc">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-	      </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
- -->
+## <p align="center">What I use:alien:</p>
+<p align="center"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/java.png"/>
+</p>
 
 ## <p align="center">Visitor's count :eyes:</p>
 
