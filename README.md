@@ -64,7 +64,7 @@ namespace NgocTien
 </p>
 
 ## <p align="center">Editor/IDE use ✍️ </p>
-<p align="left"> 
+<p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/45px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" , width = 80/>
 <!-- <img src="https://www.pngitem.com/pimgs/m/422-4223360_transparent-sublime-text-icon-hd-png-download.png" , width = 50/> -->
