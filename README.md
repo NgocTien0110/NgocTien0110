@@ -1,4 +1,8 @@
-# <p align="center">𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
+<!-- # <p align="center"> </p> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there,%20I%20am%20Dang%20Ngoc%20Tien&center=true&size=27">
+  </a>
+</h1>
 
 <p align="center">
 	<a href="https://github.com/NgocTien0110">
