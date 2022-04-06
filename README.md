@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/NgocTien0110">
-	<img src="https://user-images.githubusercontent.com/79363930/155297309-3d7f32c0-6606-43db-86ad-36978e6bef9d.jpg" width = "500" alt="NgocTien">
+	<img src="https://user-images.githubusercontent.com/79363930/155297309-3d7f32c0-6606-43db-86ad-36978e6bef9d.jpg" width = "80%" alt="NgocTien">
 	</a>
 </p>
 
@@ -64,6 +64,7 @@ namespace NgocTien
 </p>
 
 ## <p align="center">Editor/IDE use ✍️ </p>
+
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/45px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" , width = 80/>
