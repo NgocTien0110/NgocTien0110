@@ -1,6 +1,6 @@
 <!-- # <p align="center"> </p> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there,%20I%20am%20Dang%20Ngoc%20Tien&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!;%20I%20am%20Dang%20Ngoc%20Tien&center=true&size=27">
   </a>
 </h1>
 
