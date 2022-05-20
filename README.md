@@ -114,4 +114,4 @@ namespace NgocTien
 
 ##
 
-<p align="center"><img src="https://user-images.githubusercontent.com/79363930/161676032-46ec991d-dc35-4501-9a63-6b78c22d1275.gif" alt="Dino" width="100%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/79363930/161676032-46ec991d-dc35-4501-9a63-6b78c22d1275.gif" alt="Dino" width="800"></p>
