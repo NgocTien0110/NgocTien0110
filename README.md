@@ -93,7 +93,7 @@ namespace NgocTien
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6" height="138px">
+<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6" height="118px">
 </p>
 
 <br>
@@ -101,8 +101,8 @@ namespace NgocTien
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center">
-	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="200px" alt="NgocTien0110 :: Profile Stats" /></a>
-	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" height="200px" alt="NgocTien0110 :: Top Langs" /></a>
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="180px" alt="NgocTien0110 :: Profile Stats" /></a>
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" height="180px" alt="NgocTien0110 :: Top Langs" /></a>
 </p>
 
 <br>
