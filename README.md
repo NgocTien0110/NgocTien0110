@@ -85,13 +85,12 @@ namespace NgocTien
 <img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6">
 </p>
 
-## <p align="center">Top languages :tongue:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" alt="NgocTien0110 :: Top Langs" /></p>
-
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" alt="NgocTien0110 :: Profile Stats" /></p>
+<p align="center">
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="192px" alt="NgocTien0110 :: Profile Stats" /></a>
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" height="192px" alt="NgocTien0110 :: Top Langs" /></a>
+</p>
 
 ## <p align="center">Github Contributions 📈</p>
 
@@ -101,7 +100,7 @@ namespace NgocTien
 <p>
 
 <hr>
-<br>
+<br >
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
