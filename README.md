@@ -86,14 +86,14 @@ namespace NgocTien
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NgocTien0110}/count.svg" alt="NgocTien0110 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{NgocTien0110}/count.svg" height="50px" alt="NgocTien0110 :: Visitor's Count" /></p>
 
 <br>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6" height="138px">
 </p>
 
 <br>
