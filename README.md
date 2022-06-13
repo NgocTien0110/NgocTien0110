@@ -1,14 +1,17 @@
 <!-- # <p align="center"> </p> -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!;%20I%20am%20Dang%20Ngoc%20Tien&center=true&size=27">
-  </a>
 </h1>
 
+<br>
+ 
 <p align="center">
 	<a href="https://github.com/NgocTien0110">
 	<img src="https://user-images.githubusercontent.com/79363930/155297309-3d7f32c0-6606-43db-86ad-36978e6bef9d.jpg" width = "80%" alt="NgocTien">
 	</a>
 </p>
+
+<br>
 
 <!-- <h2 align="center">About me</h2> -->
 
@@ -58,6 +61,8 @@ namespace NgocTien
   </a>
 </p>
 
+<br>
+
 ## <p align="center">What I use :alien:</p>
 
 <p align="center"> 
@@ -67,6 +72,8 @@ namespace NgocTien
 <!-- <img src="https://img.icons8.com/color/48/000000/java.png"/> -->
 </p>
 
+<br>
+
 ## <p align="center">Editor/IDE use ✍️ </p>
 
 <p align="center"> 
@@ -75,9 +82,13 @@ namespace NgocTien
 <!-- <img src="https://www.pngitem.com/pimgs/m/422-4223360_transparent-sublime-text-icon-hd-png-download.png" , width = 50/> -->
 </p>
 
+<br>
+
 ## <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{NgocTien0110}/count.svg" alt="NgocTien0110 :: Visitor's Count" /></p>
+
+<br>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
@@ -85,21 +96,23 @@ namespace NgocTien
 <img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6">
 </p>
 
+<br>
+
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center">
-	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="192px" alt="NgocTien0110 :: Profile Stats" /></a>
-	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" height="192px" alt="NgocTien0110 :: Top Langs" /></a>
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="200px" alt="NgocTien0110 :: Profile Stats" /></a>
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" height="200px" alt="NgocTien0110 :: Top Langs" /></a>
 </p>
+
+<br>
 
 ## <p align="center">Github Contributions 📈</p>
 
-<br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=NgocTien0110&theme=react-dark&hide_border=true">
 <p>
 
-<hr>
 <br >
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
@@ -108,7 +121,6 @@ namespace NgocTien
 <img src="https://github.com/NgocTien0110/NgocTien0110/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-<hr>
 <br>
 
 ##
