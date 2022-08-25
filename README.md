@@ -33,6 +33,19 @@ namespace NgocTien
 }
 ``` -->
 
+<p align="center">
+  Hi, I'm Đặng Ngọc Tiến, Software Developer from Vietnamese
+  <br>
+  <br>
+  🔬 I'm currently a 3rd year student at the VNUHCM-University Of Science
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/NgocTien0110/NgocTien0110/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: dntien20@clc.fitus.edu.vn"> dntien20@clc.fitus.edu.vn</a>
+</p>
+
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
