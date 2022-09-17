@@ -37,7 +37,7 @@ namespace NgocTien
   Hi, I'm Đặng Ngọc Tiến, Software Developer from Vietnamese
   <br>
   <br>
-  🔬 I'm currently a 3rd year student at the VNUHCM-University Of Science
+  🔬 I am currently a 3rd year student majoring in Software Engineering at the VNUHCM-University Of Science
   <br>
   💻 I love writing code and learn anythings about it
   <br>
