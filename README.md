@@ -34,7 +34,7 @@ namespace NgocTien
 ``` -->
 
 <p align="center">
-  Hi, I'm Đặng Ngọc Tiến, Software Developer from Vietnamese
+  Hi, I'm Đặng Ngọc Tiến, Software Developer from Viet Nam
   <br>
   <br>
   🔬 I am currently a 3rd year student majoring in Software Engineering at the VNUHCM-University Of Science
