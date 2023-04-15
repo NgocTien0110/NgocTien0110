@@ -44,7 +44,7 @@ namespace NgocTien
   <br>
   📫 How to reach me: <a href="mailto: dntien20@clc.fitus.edu.vn"> dntien20@clc.fitus.edu.vn</a> or <a href="mailto: dntienes@gmail.com"> dntienes@gmail.com</a>
   <br>
-  🪐 Website: https://ngoctien.lovestoblog.com/
+  🪐 Website: https://ngoctien.vercel.app/
 </p>
 
 ## <p align="center">You can reach me at 🌹</p>
