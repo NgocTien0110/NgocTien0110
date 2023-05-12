@@ -125,13 +125,13 @@ namespace NgocTien
 
 <br>
 
-## <p align="center">Github Contributions 📈</p>
+<!-- ## <p align="center">Github Contributions 📈</p>
 
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=NgocTien0110&theme=react-dark&hide_border=true">
 <p>
 
-<br >
+<br > -->
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
