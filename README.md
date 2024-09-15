@@ -42,7 +42,7 @@ namespace NgocTien
   <br>
   💬 Ask me anything about from <a href="https://www.messenger.com/t/100010236849238" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: dntien20@clc.fitus.edu.vn"> dntien20@clc.fitus.edu.vn</a> or <a href="mailto: dntienes@gmail.com"> dntienes@gmail.com</a>
+  📫 How to reach me: <a href="mailto: dntien20@clc.fitus.edu.vn"> <a href="mailto: dntienes@gmail.com"> dntienes@gmail.com</a>
   <br>
   🪐 Website: https://ngoctien.vercel.app/
 </p>
