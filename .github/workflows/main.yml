@@ -24,7 +24,7 @@ jobs:
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          exec(Path("/tmp/generate-profile-cards.py").read_text())
+          exec(Path(".github/scripts/generate-profile-cards.py").read_text())
           PY
 
       - uses: crazy-max/ghaction-github-pages@v4
