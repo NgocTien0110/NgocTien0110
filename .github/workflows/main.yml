@@ -13,18 +13,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Add profile cards
+        run: |
+          mkdir -p dist
+          cp .github/profile-cards/*.svg dist/
+
       - uses: Platane/snk@v3
         with:
           github_user_name: NgocTien0110
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-
-      - name: Add profile cards
-        run: |
-          chmod -R u+w dist
-          rm -f dist/profile-stats.svg dist/profile-trophy.svg dist/top-langs.svg
-          cp .github/profile-cards/*.svg dist/
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
