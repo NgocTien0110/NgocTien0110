@@ -103,7 +103,7 @@ namespace NgocTien
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NgocTien0110/NgocTien0110/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/NgocTien0110/NgocTien0110/output/github-contribution-grid-snake.svg?v=2" alt="GitHub contribution snake">
 </p>
 
 <br>
