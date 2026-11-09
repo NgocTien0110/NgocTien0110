@@ -22,6 +22,7 @@ jobs:
 
       - name: Add profile cards
         run: |
+          chmod -R u+w dist
           rm -f dist/profile-stats.svg dist/profile-trophy.svg dist/top-langs.svg
           cp .github/profile-cards/*.svg dist/
 
