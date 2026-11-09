@@ -20,14 +20,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      - name: Generate profile cards
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          exec(Path(".github/scripts/generate-profile-cards.py").read_text())
-          PY
+      - name: Add profile cards
+        run: cp .github/profile-cards/*.svg dist/
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
