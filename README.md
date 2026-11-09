@@ -77,41 +77,18 @@ namespace NgocTien
 
 <br>
 
-<!-- 
-
-## <p align="center">What I use :alien:</p>
-
-<p align="center"> 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/java.png"/>
-</p>
-
-<br>
-
-## <p align="center">Editor/IDE use ✍️ </p>
-
-<p align="center"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/45px-Visual_Studio_Code_1.35_icon.svg.png"/>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" , width = 80/>
-<img src="https://www.pngitem.com/pimgs/m/422-4223360_transparent-sublime-text-icon-hd-png-download.png" , width = 50/>
-</p>
-
-<br>
-
- -->
-
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NgocTien0110}/count.svg" height="50px" alt="NgocTien0110 :: Visitor's Count" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=NgocTien0110&style=for-the-badge&color=blue" height="28px" alt="NgocTien0110 :: Visitor's Count" /></p>
 
 <br>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6" height="118px">
+<p align="center">
+  <a href="https://github.com/NgocTien0110">
+    <img src="https://img.shields.io/badge/GitHub-View%20profile-181717?style=for-the-badge&logo=github" alt="View GitHub profile">
+  </a>
 </p>
 
 <br>
@@ -119,24 +96,20 @@ namespace NgocTien
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center">
-	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="180px" alt="NgocTien0110 :: Profile Stats" /></a>
-	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" height="180px" alt="NgocTien0110 :: Top Langs" /></a>
+  <a href="https://github.com/NgocTien0110?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20projects-2ea44f?style=for-the-badge&logo=github" alt="View repositories" />
+  </a>
+  <a href="https://github.com/NgocTien0110?tab=overview">
+    <img src="https://img.shields.io/badge/Profile-View%20stats-58a6ff?style=for-the-badge&logo=github" alt="View profile stats" />
+  </a>
 </p>
 
 <br>
 
-<!-- ## <p align="center">Github Contributions 📈</p>
-
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=NgocTien0110&theme=react-dark&hide_border=true">
-<p>
-
-<br > -->
-
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
-<p align='center'>
-<img src="https://github.com/NgocTien0110/NgocTien0110/blob/output/github-contribution-grid-snake.svg">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NgocTien0110/NgocTien0110/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 </p>
 
 <br>
