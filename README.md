@@ -86,9 +86,7 @@ namespace NgocTien
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align="center">
-  <a href="https://github.com/NgocTien0110">
-    <img src="https://img.shields.io/badge/GitHub-View%20profile-181717?style=for-the-badge&logo=github" alt="View GitHub profile">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6" alt="GitHub Profile Trophy">
 </p>
 
 <br>
@@ -96,12 +94,8 @@ namespace NgocTien
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center">
-  <a href="https://github.com/NgocTien0110?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20projects-2ea44f?style=for-the-badge&logo=github" alt="View repositories" />
-  </a>
-  <a href="https://github.com/NgocTien0110?tab=overview">
-    <img src="https://img.shields.io/badge/Profile-View%20stats-58a6ff?style=for-the-badge&logo=github" alt="View profile stats" />
-  </a>
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="180px" alt="NgocTien0110 :: Profile Stats" /></a>
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" height="180px" alt="NgocTien0110 :: Top Langs" /></a>
 </p>
 
 <br>
@@ -109,7 +103,7 @@ namespace NgocTien
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NgocTien0110/NgocTien0110/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/NgocTien0110/NgocTien0110/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake">
 </p>
 
 <br>
