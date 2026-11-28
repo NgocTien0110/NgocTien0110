@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.title{fill:#e6edf3;font-size:20px;font-weight:600}.label{fill:#8b949e;font-size:13px}</style>
+<rect width="100%" height="100%" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="36" class="title">Most Used Languages</text>
+<text x="24" y="76" class="label">Python</text><rect x="130" y="64" width="170" height="10" rx="5" fill="#58a6ff"/><text x="316" y="76" class="label">38.5%</text>
+<text x="24" y="110" class="label">CSS</text><rect x="130" y="98" width="68" height="10" rx="5" fill="#58a6ff"/><text x="316" y="110" class="label">15.4%</text>
+<text x="24" y="144" class="label">Java</text><rect x="130" y="132" width="68" height="10" rx="5" fill="#58a6ff"/><text x="316" y="144" class="label">15.4%</text>
+<text x="24" y="178" class="label">C++</text><rect x="130" y="166" width="34" height="10" rx="5" fill="#58a6ff"/><text x="316" y="178" class="label">7.7%</text>
+<text x="24" y="212" class="label">Kotlin</text><rect x="130" y="200" width="34" height="10" rx="5" fill="#58a6ff"/><text x="316" y="212" class="label">7.7%</text>
+</svg>
